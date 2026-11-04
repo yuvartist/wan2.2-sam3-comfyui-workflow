@@ -6,9 +6,9 @@ A ComfyUI workflow for generating a short vertical Wan 2.2 image-to-video reacti
 
 The images below show the green-screen result, the original footage, and the subject mask. Add the three supplied images to `assets/` using these filenames to display them here:
 
-| Green-screen export | Original footage | SAM3 subject mask |
+| Green-screen export | SAM3 subject mask | Original 
 | --- | --- | --- |
-| ![Woman on green screen](assets/Wan22_green_screen_00004.png) | ![SAM3 subject mask](assets/Wan22_matte_00009.png) | ![Original footage](assets/Wan22_character_alpha_00004.png) 
+| ![Woman on green screen](assets/Wan22_green_screen_00009.mp4) | ![SAM3 subject mask](assets/Wan22_matte_00009.mov) | ![Original footage](assets/Wan22_ad_test_00004_.mp4) 
 
 ## Workflow
 

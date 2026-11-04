@@ -8,7 +8,7 @@ The images below show the green-screen result, the original footage, and the sub
 
 | Green-screen export | Original footage | SAM3 subject mask |
 | --- | --- | --- |
-| ![Woman on green screen](assets/Wan22_green_screen_00004.png) | ![Original footage](assets/Wan22_character_alpha_00004.png) | ![SAM3 subject mask](assets/Wan22_character_alpha_00004.png) |
+| ![Woman on green screen](assets/Wan22_green_screen_00004.png) | ![SAM3 subject mask](assets/Wan22_matte_00009.png) | ![Original footage](assets/Wan22_character_alpha_00004.png) 
 
 ## Workflow
 
